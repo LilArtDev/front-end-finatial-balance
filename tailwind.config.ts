@@ -14,6 +14,7 @@ const config: Config = {
         secondary: "#00FF66",
         background: "#262626",
         backgrondSec: "#444343",
+        gray: "#B1B1B1",
       },
       fontFamily: {
         sans: ["Arial", "Helvetica", "sans-serif"],
